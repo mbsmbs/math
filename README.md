@@ -1,4 +1,3 @@
-# math
-Maths for computer science
+# 공학용 수학
 
-## [숫자 체계]()
+# [숫자 체계]()

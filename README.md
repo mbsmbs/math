@@ -8,4 +8,4 @@
 
 # [컴퓨터의 정수/문자 표현법](https://github.com/mbsmbs/math/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98_%EC%A0%95%EC%88%98&%EB%AC%B8%EC%9E%90_%ED%91%9C%ED%98%84%EB%B2%95/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98_%EC%A0%95%EC%88%98&%EB%AC%B8%EC%9E%90_%ED%91%9C%ED%98%84%EB%B2%95.md)
 
-# [컴퓨터의 유리수 표현법]()
+# [컴퓨터의 유리수 표현법](https://github.com/mbsmbs/math/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%EC%9C%A0%EB%A6%AC%EC%88%98%20%ED%91%9C%ED%98%84%EB%B2%95/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%EC%9C%A0%EB%A6%AC%EC%88%98%20%ED%91%9C%ED%98%84%EB%B2%95.md)
